@@ -5,7 +5,7 @@
 body {
     font-family: Arial;
     padding: 10px;
-	background: pink;
+	background: white;
 	/* background: url('./8.jpg') steelblue no-repeat center center fixed; */
 	color:steelblue;
 }
@@ -15,10 +15,6 @@ body {
     padding: 30px;
     text-align: center;
     background: white;
-}
-
-.header h1 {
-    font-size: 50px;
 }
 
 /* Style the top navigation bar */
